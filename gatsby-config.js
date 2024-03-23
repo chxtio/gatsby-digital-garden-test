@@ -10,6 +10,6 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `MSCS Notes`,
   },
 }
